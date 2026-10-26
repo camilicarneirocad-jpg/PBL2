@@ -1,0 +1,17 @@
+{
+  "momento" : "24/10/2026 21:29",
+  "resumo" : "aaa - Cap. 3: Between Pages and Poetry",
+  "idCapitulo" : 3,
+  "idCena" : 0,
+  "nomeJogador" : "aaa",
+  "genero" : 2,
+  "antipatia" : 5,
+  "idRoupa" : 3,
+  "afinidades" : {
+    "1" : 31,
+    "2" : 30,
+    "3" : 44,
+    "4" : 34
+  },
+  "itens" : [ ]
+}

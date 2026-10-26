@@ -1,0 +1,18 @@
+{
+  "momento" : "26/10/2026 00:23",
+  "resumo" : "aaa - Cap. 2: Encontro nas Alturas",
+  "idCapitulo" : 2,
+  "idCena" : 0,
+  "idFala" : 0,
+  "nomeJogador" : "aaa",
+  "genero" : 2,
+  "antipatia" : 0,
+  "idRoupa" : 2,
+  "afinidades" : {
+    "1" : 30,
+    "2" : 33,
+    "3" : 39,
+    "4" : 30
+  },
+  "itens" : [ ]
+}
